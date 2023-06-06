@@ -1,4 +1,4 @@
-Title : REGISTERATION FORM OR STUDENT INFORMATION SYSTEM
+Title : GUI Application for Automated Excel Data Entry
 ###############################################################################
 In this application, User has to fill up the required information and that 
 information is automatically written into an excel file.
